@@ -1,0 +1,6 @@
+Drug1,Drug2,SideEffect,Disease,Enzyme
+Aspirin,Ibuprofen,Nausea,Headache,CYP2C9
+Ibuprofen,Paracetamol,Dizziness,Inflammation,CYP2D6
+Paracetamol,Aspirin,Liver Damage,Fever,CYP1A2
+Warfarin,VitaminK,Bleeding Disorder,Blood Clot,CYP2C9
+

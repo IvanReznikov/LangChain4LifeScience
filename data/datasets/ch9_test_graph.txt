@@ -1,0 +1,11 @@
+Drug: Aspirin
+Description: Aspirin is a medication used to reduce pain, fever, or inflammation. Specific uses include the treatment of headaches, migraines, and arthritis.
+
+Drug: Ibuprofen
+Description: Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used for treating pain, fever, and inflammation. It's commonly used for headaches, dental pain, and muscle aches.
+
+Drug: Paracetamol
+Description: Paracetamol, also known as acetaminophen, is a medication used to treat pain and fever. It is typically used for mild to moderate pain relief.
+
+Drug: Warfarin
+Description: Warfarin is an anticoagulant medication used to treat and prevent blood clots, which can help prevent heart attacks, strokes, and other blood clot-related conditions.

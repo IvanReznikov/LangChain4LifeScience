@@ -1,0 +1,31 @@
+[
+    {
+        "drug": "Aspirin",
+        "interacting_drug": "Ibuprofen",
+        "side_effect": "Nausea",
+        "disease": "Headache",
+        "enzyme": "CYP2C9"
+    },
+    {
+        "drug": "Ibuprofen",
+        "interacting_drug": "Paracetamol",
+        "side_effect": "Dizziness",
+        "disease": "Inflammation",
+        "enzyme": "CYP2D6"
+    },
+    {
+        "drug": "Paracetamol",
+        "interacting_drug": "Aspirin",
+        "side_effect": "Liver Damage",
+        "disease": "Fever",
+        "enzyme": "CYP1A2"
+    },
+    {
+        "drug": "Warfarin",
+        "interacting_drug": "VitaminK",
+        "side_effect": "Bleeding Disorder",
+        "disease": "Blood Clot",
+        "enzyme": "CYP2C9"
+    }
+]
+
