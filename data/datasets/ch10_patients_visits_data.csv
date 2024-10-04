@@ -1,9 +1,9 @@
 Patient_ID,Name,Age,Diagnosis,Allergies,Medications,Treatment_History,Test_Results
-1,John Smith,35,Hypertension,Tree nuts,Lisinopril,Regular check-ups,Normal blood pressure
-1,John Smith,35,Hypertension,Tree nuts,Lisinopril,Blood work,High cholesterol
-2,Jane Doe,28,Asthma,Peanuts,Albuterol,Inhaler use,Pulmonary function test
-2,Jane Doe,28,Asthma,Peanuts,Albuterol,Inhaler use,Chest X-ray
-2,Jane Doe,28,Asthma,Peanuts,Albuterol,Inhaler use,Allergy testing
+1,John Doe,35,Hypertension,Tree nuts,Lisinopril,Regular check-ups,Normal blood pressure
+1,John Doe,35,Hypertension,Tree nuts,Lisinopril,Blood work,High cholesterol
+2,Jane Smith,28,Asthma,Peanuts,Albuterol,Inhaler use,Pulmonary function test
+2,Jane Smith,28,Asthma,Peanuts,Albuterol,Inhaler use,Chest X-ray
+2,Jane Smith,28,Asthma,Peanuts,Albuterol,Inhaler use,Allergy testing
 3,Bob Johnson,42,Diabetes,Soy,Metformin,Insulin therapy,Glucometer readings
 3,Bob Johnson,42,Diabetes,Soy,Metformin,Insulin therapy,Kidney function test
 3,Bob Johnson,42,Diabetes,Soy,Metformin,Insulin therapy,Eye exam

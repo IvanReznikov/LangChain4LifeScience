@@ -1,6 +1,6 @@
 Patient_ID,Name,Age,Gender,Address,Phone_Number,Email,Medical_History,Family_Medical_History,Allergies
-1,Jane Smith,35,Male,123 Main St,123-456-7890,jane.smith@email.com,Hypertension,Obesity,Tree nuts
-2,John Doe,28,Female,456 Elm St,987-654-3210,j.doe@email.com,Asthma,,
+1,Jane Smith,35,Female,123 Main St,123-456-7890,jane.smith@email.com,Hypertension,Obesity,Tree nuts
+2,John Doe,28,Male,456 Elm St,987-654-3210,j.doe@email.com,Asthma,,
 3,Bob Johnson,42,Male,789 Oak St,555-123-4567,bob.johnson@email.com,Diabetes,Kidney disease,
 4,Mary Davis,38,Female,901 Maple St,111-222-3333,mary.davis@email.com,High cholesterol,,Fish
 5,David Lee,29,Male,234 Pine St,444-555-6666,david.lee@email.com,Asthma,Cancer,
