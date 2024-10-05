@@ -1,6 +1,10 @@
 {
   "properties": {
-    "name": {
+    "patient_id": {
+      "type": "string",
+      "description": "The internal id of the patient."
+    },
+    "patient_name": {
       "type": "string",
       "description": "The name of the patient."
     },
@@ -45,5 +49,5 @@
       "description": "The reason for the patient's next appointment."
     }
   },
-  "required": ["name", "reason_for_visit_doctor", "prescription", "prescription_instruction", "next_appointment_reason"]
+  "required": ["patient_name", "reason_for_visit_doctor", "prescription", "prescription_instruction", "next_appointment_reason"]
 }

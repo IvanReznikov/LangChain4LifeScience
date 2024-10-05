@@ -7,3 +7,4 @@ Patient_ID,Name,Age,Gender,Address,Phone_Number,Email,Medical_History,Family_Med
 6,Emily Patel,32,Female,567 Cedar St,777-888-9999,emily.patel@email.com,Hypertension,Heart disease,
 7,Michael Brown,45,Male,890 Walnut St,222-333-4444,michael.brown@email.com,Diabetes,Kidney disease,Gluten
 8,Sarah Taylor,40,Female,345 Spruce St,666-777-8888,sarah.taylor@email.com,High cholesterol,Obesity,Nuts
+9,John Baker,22,Male,,,,,,

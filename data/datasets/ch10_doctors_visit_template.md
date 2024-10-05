@@ -8,11 +8,11 @@
 
 | Hospital   | Doctor   |
 | ---------- | -------- |
-| {hospital} | {doctor} |
+| {hospital} | {doctor_name} |
 
-| Name   | Location   | Contact   |
-| ------ | ---------- | --------- |
-| {name} | {location} | {contact} |
+| Patient ID   | Name   | Location   | Contact   |
+| ------------ | ---------- | --------- |
+| {patient_id} | {patient_name} | {location} | {contact} |
 
 ## Reason for Visit
 
