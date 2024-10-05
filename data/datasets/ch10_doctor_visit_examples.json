@@ -1,0 +1,42 @@
+[
+  [
+    "Patient is Maria Rodriguez. The patient's reason for the visit is persistent headaches and dizziness, which the doctor has diagnosed as migraines. Physical examination reveals no significant abnormalities in vital signs. No visible edema or significant weight changes noted; the patient weighs 140 lbs and has a height of 5'6\". The patient seems stressed and tired. Prescribed migraine medication with instructions to take one tablet as needed for headaches. Additionally, the patient's next appointment is scheduled for a follow-up in 4 weeks.",
+    {
+      "name": "Maria Rodriguez",
+      "reason_for_visit_patient": "persistent headaches and dizziness",
+      "reason_for_visit_doctor": "migraines",
+      "weight": "140 lbs",
+      "height": "5'6\"",
+      "prescription": "migraine medication",
+      "prescription_instruction": "take one tablet as needed for headaches",
+      "next_appointment_reason": "follow-up in 4 weeks"
+    }
+  ],
+  [
+    "Patient is James Wilson. The patient's reason for the visit is persistent stomach pain and bloating, which the doctor has diagnosed as gastritis. Physical examination reveals no significant abnormalities in vital signs, with a blood pressure reading of 118/76 mmHg and a heart rate of 72 bpm. The patient is in good health and prescribed antacids with instructions to take one tablet before meals. Additionally, the patient's next appointment is scheduled for a follow-up in 3 weeks.",
+
+    {
+      "name": "James Wilson",
+      "reason_for_visit_patient": "persistent stomach pain and bloating",
+      "reason_for_visit_doctor": "gastritis",
+      "blood_pressure": "118/76 mmHg",
+      "heart_rate": "72 bpm",
+      "prescription": "antacids",
+      "prescription_instruction": "take one tablet before meals",
+      "next_appointment_reason": "follow-up in 3 weeks"
+    }
+  ],
+  [
+    "Patient is Susan Lee. The patient's reason for the visit is persistent joint pain and stiffness, which the doctor has diagnosed as osteoarthritis. Physical examination reveals no significant abnormalities in vital signs. The patient is in good health and prescribed pain relievers and advised to maintain regular exercise. Additionally, the patient's next appointment is scheduled for a follow-up in 5 weeks.",
+
+    {
+      "name": "Susan Lee",
+      "reason_for_visit_patient": "persistent joint pain and stiffness",
+      "reason_for_visit_doctor": "osteoarthritis",
+      "doctor_comment": "Physical examination reveals no significant abnormalities in vital signs. The patient is in good health.",
+      "prescription": "pain relievers",
+      "prescription_instruction": "advised to maintain regular exercise",
+      "next_appointment_reason": "follow-up in 5 weeks"
+    }
+  ]
+]

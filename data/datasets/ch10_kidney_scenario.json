@@ -1,0 +1,94 @@
+{
+  "initial_examination": {
+    "CBC": {
+      "Hemoglobin (Hb)": {
+        "result": "13.8 g/dL",
+        "reference_range": "13.5-17.5 g/dL",
+        "notes": "Normal"
+      },
+      "White Blood Cell Count (WBC)": {
+        "result": "6,000 cells/mm\u00b3",
+        "reference_range": "4,500-11,000 cells/mm\u00b3",
+        "notes": "Normal"
+      },
+      "Platelets (PLT)": {
+        "result": "250,000 cells/mm\u00b3",
+        "reference_range": "150,000-450,000 cells/mm\u00b3",
+        "notes": "Normal"
+      }
+    },
+    "Serum Creatinine (SCr)": {
+      "result": "1.2 mg/dL",
+      "reference_range": "0.6-1.2 mg/dL",
+      "notes": "Upper limit of normal"
+    },
+    "Blood Urea Nitrogen (BUN)": {
+      "result": "15 mg/dL",
+      "reference_range": "7-20 mg/dL",
+      "notes": "Normal"
+    },
+    "Urinalysis (UA)": {
+      "Protein": {
+        "result": "Trace",
+        "reference_range": "Negative",
+        "notes": "Slightly abnormal"
+      },
+      "Blood": {
+        "result": "Negative",
+        "reference_range": "Negative",
+        "notes": "Normal"
+      }
+    },
+    "Blood Pressure (BP)": {
+      "result": "135/85 mmHg",
+      "reference_range": "<120/80 mmHg",
+      "notes": "Marginally elevated"
+    }
+  },
+  "follow_up_examination": {
+    "CBC": {
+      "Hemoglobin (Hb)": {
+        "result": "12.5 g/dL",
+        "reference_range": "13.5-17.5 g/dL",
+        "notes": "Slightly low"
+      },
+      "White Blood Cell Count (WBC)": {
+        "result": "5,800 cells/mm\u00b3",
+        "reference_range": "4,500-11,000 cells/mm\u00b3",
+        "notes": "Normal"
+      },
+      "Platelets (PLT)": {
+        "result": "260,000 cells/mm\u00b3",
+        "reference_range": "150,000-450,000 cells/mm\u00b3",
+        "notes": "Normal"
+      }
+    },
+    "Serum Creatinine (SCr)": {
+      "result": "1.7 mg/dL",
+      "reference_range": "0.6-1.2 mg/dL",
+      "notes": "Elevated"
+    },
+    "Blood Urea Nitrogen (BUN)": {
+      "result": "22 mg/dL",
+      "reference_range": "7-20 mg/dL",
+      "notes": "Elevated"
+    },
+    "Urinalysis (UA)": {
+      "Protein": {
+        "result": "1+",
+        "reference_range": "Negative",
+        "notes": "Abnormal (proteinuria)"
+      },
+      "Blood": {
+        "result": "Trace",
+        "reference_range": "Negative",
+        "notes": "Slightly abnormal (microscopic hematuria)"
+      }
+    },
+    "Blood Pressure (BP)": {
+      "result": "140/90 mmHg",
+      "reference_range": "<120/80 mmHg",
+      "notes": "Elevated"
+    }
+  }
+}

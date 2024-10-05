@@ -1,0 +1,49 @@
+{
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The name of the patient."
+    },
+    "reason_for_visit_patient": {
+      "type": "string",
+      "description": "The reason for the patient's visit."
+    },
+    "reason_for_visit_doctor": {
+      "type": "string",
+      "description": "The reason for the doctor's diagnosis."
+    },
+    "doctor_comment": {
+      "type": "string",
+      "description": "Comments from the doctor regarding the patient's health."
+    },
+    "weight": {
+      "type": "string",
+      "description": "The weight of the patient."
+    },
+    "height": {
+      "type": "string",
+      "description": "The height of the patient."
+    },
+    "blood_pressure": {
+      "type": "string",
+      "description": "The blood pressure of the patient."
+    },
+    "heart_rate": {
+      "type": "string",
+      "description": "The heart rate of the patient."
+    },
+    "prescription": {
+      "type": "string",
+      "description": "The prescribed medication for the patient."
+    },
+    "prescription_instruction": {
+      "type": "string",
+      "description": "Instructions for taking the prescribed medication."
+    },
+    "next_appointment_reason": {
+      "type": "string",
+      "description": "The reason for the patient's next appointment."
+    }
+  },
+  "required": ["name", "reason_for_visit_doctor", "prescription", "prescription_instruction", "next_appointment_reason"]
+}

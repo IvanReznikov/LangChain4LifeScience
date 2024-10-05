@@ -1,24 +1,41 @@
-**Doctor's Notes**
-================
+# Doctor Visit Report
 
-**Date**: 
-**Practitioner**: 
+## General Information
 
-### Priorities
-* 
-* 
+| Date   | Time   |
+| ------ | ------ |
+| {date} | {time} |
 
-### Current Medications
-No change from last visit?
+| Hospital   | Doctor   |
+| ---------- | -------- |
+| {hospital} | {doctor} |
 
-### Questions to Ask
-1. 
-2. 
+| Name   | Location   | Contact   |
+| ------ | ---------- | --------- |
+| {name} | {location} | {contact} |
 
-### Test Results
+## Reason for Visit
 
-### Key Issues
+| Reason for Visit           | Reason for Visit          |
+| -------------------------- | ------------------------- |
+| {reason_for_visit_patient} | {reason_for_visit_doctor} |
 
-### Actions
-* 
-* 
+## Doctor's Comment
+
+{doctor_comment}
+
+## Health Assessment
+
+| Age   | Weight   | Height   | Blood Pressure   | Heart Rate   |
+| ----- | -------- | -------- | ---------------- | ------------ |
+| {age} | {weight} | {height} | {blood_pressure} | {heart_rate} |
+
+## Prescription
+
+| Prescription   | Prescription Instructions  |
+| -------------- | -------------------------- |
+| {prescription} | {prescription_instruction} |
+
+## Next Appointment
+
+Reason for Next Appointment: {next_appointment_reason}
