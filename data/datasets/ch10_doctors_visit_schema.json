@@ -1,4 +1,7 @@
 {
+  "title": "doctors_visit",
+  "description": "Doctors visit template",
+  "type": "object",
   "properties": {
     "patient_id": {
       "type": "string",

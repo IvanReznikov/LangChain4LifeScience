@@ -1,41 +1,49 @@
-# Doctor Visit Report
+# 🏥 Doctor Visit Report
+---
 
-## General Information
+## 📝 General Information
 
-| Date   | Time   |
-| ------ | ------ |
-| {date} | {time} |
+| **Date**   | **Time**   | **Hospital**   | **Doctor**         |
+|------------|------------|----------------|--------------------|
+| {date}     | {time}     | {hospital}     | {doctor_name}      |
 
-| Hospital   | Doctor   |
-| ---------- | -------- |
-| {hospital} | {doctor_name} |
 
-| Patient ID   | Name   | Location   | Contact   |
-| ------------ | ---------- | --------- |
-| {patient_id} | {patient_name} | {location} | {contact} |
+| **Patient ID** | **Name**         |    **Location**     | **Contact**        |
+|----------------|------------------|---------------------|--------------------|
+| {patient_id}   | {patient_name}   |    {location}       | {contact}          |
 
-## Reason for Visit
+---
 
-| Reason for Visit           | Reason for Visit          |
-| -------------------------- | ------------------------- |
-| {reason_for_visit_patient} | {reason_for_visit_doctor} |
+## 🔍 Reason for Visit
+| **Patient's Reason for Visit**        | **Doctor's Reason for Visit**      |
+|---------------------------------------|------------------------------------|
+| {reason_for_visit_patient}            | {reason_for_visit_doctor}          |
 
-## Doctor's Comment
+---
 
+## 🔬 Health Assessment
+|       |           |
+|----------------------|--------------------|
+| **Age**              | {age}              |
+| **Weight**           | {weight}           |
+| **Height**           | {height}           |
+| **Blood Pressure**   | {blood_pressure}   |
+| **Heart Rate**       | {heart_rate}       |
+
+---
+
+## 💬 Doctor's Comment
 {doctor_comment}
+---
 
-## Health Assessment
+## 💊 Prescription
 
-| Age   | Weight   | Height   | Blood Pressure   | Heart Rate   |
-| ----- | -------- | -------- | ---------------- | ------------ |
-| {age} | {weight} | {height} | {blood_pressure} | {heart_rate} |
+| **Medication**      | **Instructions**                |
+|---------------------|---------------------------------|
+| {prescription}      | {prescription_instruction}      |
 
-## Prescription
+---
 
-| Prescription   | Prescription Instructions  |
-| -------------- | -------------------------- |
-| {prescription} | {prescription_instruction} |
-
-## Next Appointment
-
-Reason for Next Appointment: {next_appointment_reason}
+## 📅 Next Appointment
+{next_appointment_reason}
+---
