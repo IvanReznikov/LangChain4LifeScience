@@ -33,7 +33,9 @@
 ---
 
 ## 💬 Doctor's Comment
+
 {doctor_comment}
+
 ---
 
 ## 💊 Prescription
@@ -45,5 +47,7 @@
 ---
 
 ## 📅 Next Appointment
+
 {next_appointment_reason}
+
 ---

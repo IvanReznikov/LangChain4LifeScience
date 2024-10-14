@@ -1,19 +1,19 @@
-Patient_ID,Name,Age,Diagnosis,Allergies,Medications,Treatment_History,Test_Results
-1,John Doe,35,Hypertension,Tree nuts,Lisinopril,Regular check-ups,Normal blood pressure
-1,John Doe,35,Hypertension,Tree nuts,Lisinopril,Blood work,High cholesterol
-2,Jane Smith,28,Asthma,Peanuts,Albuterol,Inhaler use,Pulmonary function test
-2,Jane Smith,28,Asthma,Peanuts,Albuterol,Inhaler use,Chest X-ray
-2,Jane Smith,28,Asthma,Peanuts,Albuterol,Inhaler use,Allergy testing
-3,Bob Johnson,42,Diabetes,Soy,Metformin,Insulin therapy,Glucometer readings
-3,Bob Johnson,42,Diabetes,Soy,Metformin,Insulin therapy,Kidney function test
-3,Bob Johnson,42,Diabetes,Soy,Metformin,Insulin therapy,Eye exam
-4,Mary Davis,38,High cholesterol,Shellfish,Atorvastatin,Dietary changes,Lipid panel
-4,Mary Davis,38,High cholesterol,Shellfish,Atorvastatin,Dietary changes,Cardio stress test
-5,David Lee,29,Asthma,Eggs,Albuterol,Inhaler use,Pulmonary function test
-5,David Lee,29,Asthma,Eggs,Albuterol,Inhaler use,Chest X-ray
-6,Emily Patel,32,Hypertension,Milk,Lisinopril,Regular check-ups,Normal blood pressure
-6,Emily Patel,32,Hypertension,Milk,Lisinopril,Blood work,High blood pressure
-7,Michael Brown,45,Diabetes,Gluten,Metformin,Insulin therapy,Glucometer readings
-7,Michael Brown,45,Diabetes,Gluten,Metformin,Insulin therapy,Kidney function test
-8,Sarah Taylor,40,High cholesterol,Nuts,Atorvastatin,Dietary changes,Lipid panel
-8,Sarah Taylor,40,High cholesterol,Nuts,Atorvastatin,Dietary changes,Cardio stress test
+Patient_ID,Name,Age,Diagnosis,Allergies,Medications,Treatment_History,Test_Results,Session,Date,Meeting_Summary
+1,John Doe,35,Hypertension,Tree nuts,Lisinopril,Regular check-ups,Normal blood pressure,1,2022-01-01,"Discussed patient's concerns and medical history, diagnosed with hypertension and prescribed Lisinopril."
+1,John Doe,35,Hypertension,Tree nuts,Lisinopril,Blood work,high cholesterol,2,2022-01-15,"Follow-up on blood work results,  discussed high cholesterol and adjusted medication dosage."
+2,Jane Smith,28,Asthma,Peanuts,Albuterol,Inhaler use,Pulmonary function test,1,2022-02-01,"Discussed patient's symptoms and medical history,  diagnosed with asthma and prescribed Albuterol."
+2,Jane Smith,28,Asthma,Peanuts,Albuterol,Inhaler use,Chest X-ray,2,2022-02-15,"Follow-up on pulmonary function test results,  ordered Chest X-ray to rule out other conditions."
+2,Jane Smith,28,Asthma,Peanuts,Albuterol,Inhaler use,Allergy testing,3,2022-03-01,"Discussed allergy testing results,  identified peanut allergy and discussed treatment options."
+3,Bob Johnson,42,Diabetes,Soy,Metformin,Insulin therapy,Glucometer readings,1,2022-03-15,"Discussed patient's symptoms and medical history,  diagnosed with diabetes and prescribed Metformin and insulin therapy."
+3,Bob Johnson,42,Diabetes,Soy,Metformin,Insulin therapy,Kidney function test,2,2022-04-01,"Follow-up on glucometer readings,  discussed kidney function test results and adjusted insulin dosage."
+3,Bob Johnson,42,Diabetes,Soy,Metformin,Insulin therapy,Eye exam,3,2022-04-15,"Follow-up on kidney function test results,  ordered eye exam to monitor for diabetic retinopathy."
+4,Mary Davis,38,High cholesterol,Shellfish,Atorvastatin,Dietary changes,Lipid panel,1,2022-05-01,"Discussed patient's symptoms and medical history,  diagnosed with high cholesterol and prescribed Atorvastatin."
+4,Mary Davis,38,High cholesterol,Shellfish,Atorvastatin,Dietary changes,Cardio stress test,2,2022-05-15,"Follow-up on lipid panel results,  ordered cardio stress test to monitor heart health."
+5,David Lee,29,Asthma,Eggs,Albuterol,Inhaler use,Pulmonary function test,1,2022-06-01,"Discussed patient's symptoms and medical history,  diagnosed with asthma and prescribed Albuterol."
+5,David Lee,29,Asthma,Eggs,Albuterol,Inhaler use,Chest X-ray,2,2022-06-15,"Follow-up on pulmonary function test results,  ordered Chest X-ray to monitor for asthma exacerbation."
+6,Emily Patel,32,Hypertension,Milk,Lisinopril,,High blood pressure,1,2022-07-01,"Discussed patient's symptoms and medical history,  diagnosed with hypertension and prescribed Lisinopril."
+6,Emily Patel,32,Hypertension,Milk,Lisinopril,,Blood work,2,2022-07-15,"Follow-up on blood work results, discussed high blood pressure and adjusted medication dosage."
+7,Michael Brown,45,Diabetes,Gluten,Metformin,Insulin therapy,Glucometer readings,1,2022-08-01,"Discussed patient's symptoms and medical history,  diagnosed with diabetes and prescribed Metformin and insulin therapy."
+7,Michael Brown,45,Diabetes,Gluten,Metformin,Insulin therapy,Kidney function test,2,2022-08-15,"Follow-up on glucometer readings,  discussed kidney function test results and adjusted insulin dosage."
+8,Sarah Taylor,40,High cholesterol,Nuts,Atorvastatin,Dietary changes,Lipid panel,1,2022-09-01,"Discussed patient's symptoms and medical history,  diagnosed with high cholesterol and prescribed Atorvastatin."
+8,Sarah Taylor,40,High cholesterol,Nuts,Atorvastatin,Dietary changes,Cardio stress test,2,2022-09-15,"Follow-up on lipid panel results,  ordered cardio stress test to monitor heart health."
